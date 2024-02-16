@@ -1,0 +1,5 @@
+
+Ckotlin:S125î"Remove this commented out code.(ÏÏ¦•ıÿÿÿÿ8«é”ïÚ1
+ßkotlin:S6532£"ÀReplace this if expression with require(expectedStorageType != StorageType.DATA) { "Cannot use StorageType.DATA because it is never available in Storage Access Framework's folder selector." }.(¿àÑıÿÿÿÿ
+pkotlin:S3776²"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ûçºûÿÿÿÿ
+pkotlin:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿½ƒÁúÿÿÿÿ

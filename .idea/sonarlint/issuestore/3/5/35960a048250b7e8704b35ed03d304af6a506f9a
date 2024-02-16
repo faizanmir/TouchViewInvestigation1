@@ -1,0 +1,22 @@
+
+okotlin:S1192»"ODefine a constant instead of duplicating this literal "/document/\\d+" 3 times.(Ğ‰Á8ô¹ÉîÚ1
+tkotlin:S1192Ä"ODefine a constant instead of duplicating this literal "/document/raw:" 3 times.(ğÀƒúÿÿÿÿ8ô¹ÉîÚ1
+wkotlin:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³‚ˆˆüÿÿÿÿ8î˜ÄîÚ1
+rkotlin:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÖÇôÕ8ƒºÉîÚ1
+wkotlin:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ôÍ‰»øÿÿÿÿ8ƒºÉîÚ1
+rkotlin:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÑÆÍÍ8ƒºÉîÚ1
+rkotlin:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àŠ²î8„ºÉîÚ1
+wkotlin:S3776­"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨»äĞøÿÿÿÿ8„ºÉîÚ1
+wkotlin:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(†¢Ç‰ùÿÿÿÿ8„ºÉîÚ1
+qkotlin:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(àÈß.8…ºÉîÚ1
+xkotlin:S3776Ÿ"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(—‘¢âúÿÿÿÿ8…ºÉîÚ1
+rkotlin:S3776í"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(«½ıö8…ºÉîÚ1
+rkotlin:S3776º"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(êÆÁ•8†ºÉîÚ1
+wkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ïÅ¢îüÿÿÿÿ8†ºÉîÚ1
+wkotlin:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ê˜ø–şÿÿÿÿ8†ºÉîÚ1
+wkotlin:S3776€"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÚıËˆøÿÿÿÿ8‡ºÉîÚ1
+wkotlin:S3776º"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(œÂßÆÿÿÿÿÿ8‡ºÉîÚ1
+]kotlin:S6511"=Merge chained "if" statements into a single "when" statement.(ï—­œ8«ºÉîÚ1
+bkotlin:S6511è"=Merge chained "if" statements into a single "when" statement.(¸÷œ§ùÿÿÿÿ8«ºÉîÚ1
+Lkotlin:S6518Ş",Replace function call with indexed accessor.(½…ã²8²ºÉîÚ1
